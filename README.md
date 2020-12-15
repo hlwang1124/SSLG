@@ -1,6 +1,6 @@
 # Self-Supervised Label Generator
 
-This is a MATLAB demo of the self-supervised label generator (SSLG), presented in our RA-L paper, [Self-Supervised Drivable Area and Road Anomaly Segmentation using RGB-D Data for Robotic Wheelchairs](https://arxiv.org/abs/2007.05950). Our SSLG can be used effectively for self-supervised drivable area and road anomaly segmentation based on RGB-D data. The code has been tested in MATLAB R2020b.
+This is a MATLAB demo of the Self-Supervised Label Generator (SSLG), presented in our RA-L paper, [Self-Supervised Drivable Area and Road Anomaly Segmentation using RGB-D Data for Robotic Wheelchairs](https://arxiv.org/abs/2007.05950). Our SSLG can be used effectively for self-supervised drivable area and road anomaly segmentation based on RGB-D data. The code has been tested in MATLAB R2020b.
 
 <p align="center">
 <img src="doc/SSLG.png" width="100%"/>
