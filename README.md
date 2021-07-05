@@ -12,16 +12,15 @@ These examples belong to our GMRP dataset, an RGB-D dataset of drivable area and
 
 If you use this code for your research, please cite our paper.
 ```
-@article{wang2019self, 
-  author={Wang, Hengli and Sun, Yuxiang and Liu, Ming},
-  journal={IEEE Robotics and Automation Letters}, 
-  title={Self-Supervised Drivable Area and Road Anomaly Segmentation Using RGB-D Data For Robotic Wheelchairs}, 
-  year={2019}, 
-  volume={4}, 
-  number={4}, 
-  pages={4386-4393}, 
-  doi={10.1109/LRA.2019.2932874}, 
-  ISSN={2377-3766}, 
-  month={Oct}
+@article{wang2019self,
+  title     = {Self-supervised drivable area and road anomaly segmentation using {RGB-D} data for robotic wheelchairs},
+  author    = {Wang, Hengli and Sun, Yuxiang and Liu, Ming},
+  journal   = {IEEE Robotics and Automation Letters},
+  volume    = {4},
+  number    = {4},
+  pages     = {4386--4393},
+  year      = {2019},
+  publisher = {IEEE},
+  doi       = {10.1109/LRA.2019.2932874}
 }
 ```
